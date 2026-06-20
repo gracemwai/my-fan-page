@@ -4,13 +4,16 @@
   padding: 1.5rem;
   margin: 10px;
 /*   width: 30rem;
- */  height: 39rem;
-  
+ */  height: 57vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+align-items: center;
 }
 
 .card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.3);
+  box-shadow:4px 4px 4px 6px purple;
   
 }
 .emoji {
