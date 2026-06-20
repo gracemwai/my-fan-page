@@ -18,7 +18,7 @@ export const items = [
     name: "Conrows",
     blurb: "Crisp, neat, and classic. The ultimate low-maintenance look that always feels effortless.",
     rating: 4,
-    image:"/Conrowa. jpg"
+    image:"Conrowa. jpg"
     
   },
    {
