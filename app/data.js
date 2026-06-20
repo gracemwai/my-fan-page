@@ -18,7 +18,7 @@ export const items = [
     name: "Conrows",
     blurb: "Crisp, neat, and classic. The ultimate low-maintenance look that always feels effortless.",
     rating: 4,
-    image:"Conrowa. jpg"
+    image:"/Conrows.jpg"
     
   },
    {
@@ -50,6 +50,22 @@ export const items = [
     blurb: "The ultimate cheat code. It lets me completely change my entire look in under five minutes.",
     rating: 7,
     image:"/Wigs.jpg"
+    
+  },
+   {
+    id: 7,
+    name: "Pixie",
+    blurb: "It looks instantly styled with zero effort.",
+    rating: 8,
+    image:"/pixie.jpg"
+    
+  },
+   {
+    id: 7,
+    name: "Ponytail",
+    blurb: "It has a fun, energetic bounce that adds instant personality to any outfit, proving that the simplest styles are often the best.",
+    rating: 7,
+    image:"/Ponytail.jpg"
     
   },
 ];
