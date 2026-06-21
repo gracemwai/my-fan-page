@@ -48,7 +48,7 @@ export const items = [
     id: 7,
     name: "Wigs",
     blurb: "The ultimate cheat code. It lets me completely change my entire look in under five minutes.",
-    rating: 7,
+    rating: 6,
     image:"/Wigs.jpg"
     
   },
@@ -56,7 +56,7 @@ export const items = [
     id: 7,
     name: "Pixie",
     blurb: "It looks instantly styled with zero effort.",
-    rating: 8,
+    rating: 7,
     image:"/pixie.jpg"
     
   },
@@ -64,7 +64,7 @@ export const items = [
     id: 7,
     name: "Ponytail",
     blurb: "It has a fun, energetic bounce that adds instant personality to any outfit, proving that the simplest styles are often the best.",
-    rating: 7,
+    rating: 5,
     image:"/Ponytail.jpg"
     
   },
